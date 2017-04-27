@@ -1,4 +1,4 @@
-FROM composer:latest
+FROM michaeltigr/zebra-build-php-base:latest
 
 LABEL maintainer "Michael Molchanov <mmolchanov@adyax.com>"
 
